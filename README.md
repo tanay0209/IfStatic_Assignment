@@ -1,6 +1,6 @@
 # food_ordering
 
-A new Flutter project.
+A Flutter application made as an assignment given by IfStatic Technology for the internship role of flutter developer.
 
 ## Getting Started
 
