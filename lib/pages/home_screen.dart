@@ -20,7 +20,7 @@ class _HomeScreenState extends State<HomeScreen> {
   List restaurants = [];
   List filteredRestaurants = [];
   bool restaurantsPopulated = false;
-  int selected = -1;
+  int selected = 0;
 
   @override
   void initState() {
